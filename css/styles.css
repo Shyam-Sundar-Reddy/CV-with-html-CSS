@@ -14,3 +14,14 @@ hr{
   border-width:4px;
   width:60%;
 }
+label {
+  width: 180px;
+  display: block;
+  float: left;
+  clear: both;
+}
+
+input,
+textarea {
+  width: 200px;
+}
