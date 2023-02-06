@@ -3,7 +3,7 @@
 
 This is a personal website project to showcase my skills, experiences, and projects. This project is built using HTML, CSS, and JavaScript.
 
-## visit site:
+## visit site:https://shyam-sundar-reddy.github.io/CV-with-html-CSS/
 
 ## Features
 
